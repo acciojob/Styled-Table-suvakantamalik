@@ -1,1 +1,7 @@
 /* your code */
+thead{
+	border-collapse: collapse;
+	border-color: #215a8e;
+	background-color: #215a8e;
+	color: white;
+}
